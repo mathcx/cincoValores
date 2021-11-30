@@ -39,7 +39,7 @@ for (i=0;i<5;i++){
 			}
 		}
 	}
-}
+	}
 
 	int main(){
 		
@@ -48,6 +48,6 @@ for (i=0;i<5;i++){
 		valores posicao;
 		posicao.cincoValores(array);
 
-return 0;
+	return 0;
 
-}
+	}
